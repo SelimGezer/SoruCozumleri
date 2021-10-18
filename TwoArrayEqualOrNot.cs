@@ -111,12 +111,3 @@ namespace SoruCozumleri
         }
     }
 }
-
-
-
-
-
-
-
-
-
